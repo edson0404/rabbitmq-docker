@@ -1,0 +1,3 @@
+[submodule "wait-for-it-docker"]
+	path = wait-for-it-docker
+	url = git@github.com:ryandav/wait-for-it-docker.git
