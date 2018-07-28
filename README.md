@@ -1,6 +1,6 @@
 # RabbitMQ on Docker
 
-An example of a RabbitMQ instance running on Docker with custom configuration. This can be loaded with Docker or Docker Compose.
+An example of a RabbitMQ instance running on Docker with custom configuration. This can be loaded with Docker or Docker Compose. 
 
 This is designed as a tutorial and template that you can customise and extend for the implementation you desire.
 
